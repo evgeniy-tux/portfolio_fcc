@@ -1,3 +1,7 @@
+.navbar{
+    background-color: #535764
+}
+
 h2{
     text-align: center;
 }
@@ -16,10 +20,13 @@ h2{
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
-  background-color: #1976D2;
+  background-color: #535764;
 }
 
 .footer p {
     text-align: center;
     margin: 20px;
+    color: #727582;
 }
+
+.fat-footer
