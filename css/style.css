@@ -29,4 +29,7 @@ h2{
     color: #727582;
 }
 
-.fat-footer
+.fat-footer li {
+    list-style-type: none; /* Убираем маркеры */
+    display: inline;
+   }
